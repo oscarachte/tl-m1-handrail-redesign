@@ -7,7 +7,7 @@
 
 ## Overview
 
-A pre-industrial engineering study conducted with Transports Lausannois (TL) as our final Bachelor's project at EPFL. I proposed the project after identifying standing areas with insufficient handholds on Lausanne's M1 metro.
+A pre-industrial engineering study conducted with Transports Lausannois (TL) as our final Bachelor's project at EPFL. We proposed the project after identifying standing areas with insufficient handholds on Lausanne's M1 metro.
 
 Working in a team of two, we studied the existing vehicle fleet and developed two complementary handrail concepts for potential deployment across the 22-unit fleet. The project progressed from problem identification and concept evaluation to engineering verification and technical documentation.
 
